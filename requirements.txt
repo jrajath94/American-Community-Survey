@@ -1,17 +1,10 @@
 viola
-voila-material
 numpy
 pandas
 seaborn
 bqplot
 ipywidgets
 geopandas
-psutil
-toolz
 matplotlib
-dill
-pandas
-partd
 bokeh
-dask
 tornado==5.1.1
