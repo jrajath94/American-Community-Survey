@@ -14,3 +14,4 @@ pandas
 partd
 bokeh
 dask
+tornado==5.1.1
